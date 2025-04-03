@@ -37,7 +37,7 @@ This project demonstrates the React Native application that presents users with 
 
 
 ## Video
-I have recorded a video from my laptop demonstrating the features and functionality of the application. You can watch the video [https://drive.google.com/file/d/1KamLCLsA91wMJ0QlfEo5XZUhiCz7lZNF/view?usp=sharing](https://drive.google.com/file/d/11AyIhHPvPwuoQjriF7_pd-8U3HMJULsH/view?usp=sharing)
+I have recorded a video from my laptop demonstrating the features and functionality of the application. You can watch the video [https://drive.google.com/file/d/1KamLCLsA91wMJ0QlfEo5XZUhiCz7lZNF/view?usp=sharing](https://drive.google.com/file/d/1KamLCLsA91wMJ0QlfEo5XZUhiCz7lZNF/view?usp=sharing)
 
   
 ## Given API
